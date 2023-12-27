@@ -23,61 +23,60 @@ Here are some ideas to get you started:
 <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
 
-HTML
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white
-">
+[HTML]
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white">
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white">
 
 
-CSS
+[CSS]
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white">
 
 
-JavaScript
+[JavaScript]
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&color=black">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&color=black">
 
 
-Java
+[Java]
 <img alt="Java" src="https://img.shields.io/badge/Java-%23004B8D">
 <img alt="Java" src="https://img.shields.io/badge/Java-%23004B8D?style=flat-square">
 
 
-Spring
+[Spring]
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&color=%236DB33F">
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white&color=%236DB33F">
 
 
-Spring Boot
+[Spring Boot]
 <img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-%236DB33F?logo=spring%20boot&logoColor=white&color=%236DB33F">
 <img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=spring%20boot&logoColor=white&color=%236DB33F">
 
 
-Eclipse IDE
+[Eclipse IDE]
 <img alt="EclipseIDE" src="https://img.shields.io/badge/Eclipse_IDE-%232C2255?logo=eclipse%20ide&color=%232C2255">
 <img alt="EclipseIDE" src="https://img.shields.io/badge/Eclipse_IDE-%232C2255?style=flat-square&logo=eclipse%20ide&color=%232C2255">
 
 
 
-IntelliJ IDEA
+[IntelliJ IDEA]
 <img alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000?logo=intellijidea&color=%23000000">
 <img alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=flat-square&logo=intellijidea&color=%23000000">
 
 
-Visual Studio Code
+[Visual Studio Code]
 <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?logo=Visual%20Studio%20Code">
 <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=flat-square&logo=Visual%20Studio%20Code">
 
 
-Visual Studio
+[Visual Studio]
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?logo=Visual%20Studio">
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?style=flat-square&logo=Visual%20Studio">
 
 
-ORACLE
+[ORACLE]
 <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-%23F80000?logo=ORACLE">
 <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-%23F80000?style=flat-square&logo=ORACLE">
 
@@ -87,7 +86,7 @@ MySQL
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white">
 
 
-Maria DB
+[Maria DB]
 <img alt="MariaDB" src="https://img.shields.io/badge/Maria_DB-%23003545?logo=mariadbfoundation">
 <img alt="MariaDB" src="https://img.shields.io/badge/Maria_DB-%23003545?style=flat-square&logo=mariadbfoundation">
 
